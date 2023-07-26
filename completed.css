@@ -1,0 +1,38 @@
+.gyou{
+   display: inline-block;
+   display:flex;
+   width:100%;
+   border:solid 1px #3e3d45;
+}
+
+
+.name{
+   background-color: #dadada;
+   padding:5px 30px 5px 10px;
+   width:18%;
+}
+
+
+.gyou li{
+   padding-top:7px;
+}
+
+
+.oppai{
+   text-decoration:none;
+   color:whitesmoke;
+   background-color:green;
+   padding:4px 40px 4px 40px;
+   margin-right:100px;
+   display:inline-block;
+   border-radius:4px;
+   margin:0 auto;
+}
+
+
+.osiri{
+   display:flex;
+   justify-content:center;
+}
+
+
